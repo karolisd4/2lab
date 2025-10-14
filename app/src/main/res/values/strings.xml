@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text Metrics</string>
+    <string name="hint_enter_text">Iveskite teksta...</string>
+    <string name="button_calculate">Skaiciuoti</string>
+    <string name="result_placeholder">Cia matysite rezulata</string>
+
+    <string name="toast_empty_input">Neivedete teksto!</string>
+
+    <string-array name="metric_options">
+        <item>Sakiniu skaicius</item>
+        <item>Zodziu skaicius</item>
+        <item>Rasybos zenklu skaicius</item>
+        <item>Skaiciu skaicius ( :D )</item>
+    </string-array>
+</resources>
